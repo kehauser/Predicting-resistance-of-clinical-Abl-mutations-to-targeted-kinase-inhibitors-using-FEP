@@ -1,4 +1,4 @@
-# PredictingKinaseResistanceMutationsUsingFEP
+# Experimental and computational datasets
 
 ## Data format
 
