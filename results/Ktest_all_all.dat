@@ -1,0 +1,281 @@
+TKI       mutation        IC50    DDG_exp DDG_prime       DDG_fep1        dDDG_fep1       DDG_fep2        dDDG_fep2       DDG_fep3        dDDG_fep3
+axitinib	M244V	690	-0.11	-0.122	0.05	0.41	-0.2	0.41	0.08	0.41
+axitinib	L248R	1393	0.31	0.932	2.65	0.44	1.79	0.43	2.27	0.44
+axitinib	L248V	1399	0.32	6.226	-0.73	0.42	-0.51	0.42	-0.55	0.41
+axitinib	G250E	1295	0.27	0.423	-0.26	0.41	0	0.41	-0.4	0.41
+axitinib	Q252H	1155	0.20	1.653	-0.14	0.42	0.41	0.42	0	0.43
+axitinib	Y253F	1275	0.26	1.164	1.27	0.43	1.35	0.42	0.46	0.45
+axitinib	Y253H	867	0.03	4.488	1.09	0.46	1.53	0.45	1.28	0.48
+axitinib	E255K	1282	0.26	0.09	0.71	0.43	1.09	0.43	0.31	0.44
+axitinib	E255V	1350	0.30	-0.275	0.78	0.42	0.84	0.42	0.04	0.42
+axitinib	D276G	1105	0.18	-0.003	-0.18	0.42	0.01	0.43	0.18	0.42
+axitinib	E279K	778	-0.03	-0.145	-0.2	0.43	-0.43	0.42	-0.24	0.43
+axitinib	E292L	863	0.03	-0.198	-0.44	0.42	-0.04	0.42	0.65	0.42
+axitinib	V299L	188	-0.88	-5.388	-1.66	0.41	-1.68	0.42	-1.48	0.42
+axitinib	F311L									
+axitinib	T315A	389	-0.45	1.005	0.99	0.43	0.19	0.43	0.52	0.48
+axitinib	T315I	98	-1.27	-2.758	-0.23	0.44	-0.38	0.43	-0.52	0.47
+axitinib	T315V	45	-1.73	-1.142	-1.99	0.41	-1.54	0.44	-1.8	0.43
+axitinib	F317C 									
+axitinib	F317I 									
+axitinib	F317L	1220	0.23	1.874	0.18	0.41	-0.3	0.41	-0.23	0.41
+axitinib	F317R	1286	0.27	-2.427	1.62	0.46	2.4	0.46	2.17	0.45
+axitinib	F317V	1320	0.28	2.819	0.65	0.41	0.45	0.42	0.53	0.41
+axitinib	M343T	1175	0.21	-0.003	-0.24	0.43	0.02	0.49	0.11	0.49
+axitinib	M351T	553	-0.24	-0.011	-0.22	0.41	-0.5	0.41	0.01	0.41
+axitinib	E355A 									
+axitinib	E355G									
+axitinib	F359C 									
+axitinib	F359I	975	0.10	-0.037	1.6	0.41	1.06	0.41	0.65	0.41
+axitinib	F359V	933	0.07	-0.029	1.2	0.42	0.68	0.43	0.67	0.42
+axitinib	V379I									
+axitinib	L384M	916	0.06	-0.042	0.01	0.41	0.02	0.41	-0.39	0.41
+axitinib	L387M									
+axitinib	H396R	1247	0.25	-0.019	0.14	0.42	0.5	0.43	-0.2	0.42
+axitinib	F486S	897	0.05	-0.087	0.28	0.47	-0.7	0.49	-0.28	0.46
+axitinib	E459K 									
+bosutinib	M244V	147	0.43	0.019	-0.28	0.41	-0.11	0.41	-0.08	0.41
+bosutinib	L248R	874	1.50	3.667	1	0.43	1.63	0.43	1.33	0.43
+bosutinib	L248V	182	0.56	5.767	0.37	0.41	0.72	0.42	0.38	0.42
+bosutinib	G250E	85	0.11	-0.297	0.28	0.43	0.63	0.43	-1.07	0.43
+bosutinib	Q252H									
+bosutinib	Y253F	40	-0.34	-0.033	0.21	0.45	0.02	0.43	0.95	0.43
+bosutinib	Y253H									
+bosutinib	E255K	181	0.56	0.493	-1.01	0.43	-1.3	0.43	-1.01	0.43
+bosutinib	E255V	214	0.66	0.106	-0.47	0.42	-0.51	0.43	-0.91	0.43
+bosutinib	D276G									
+bosutinib	E279K									
+bosutinib	E292L									
+bosutinib	V299L	1228	1.70	-0.846	0.97	0.43	0.9	0.42	0.85	0.42
+bosutinib	F311L									
+bosutinib	T315A	122	0.32	1.004	-1.61	0.41	-1.61	0.41	-1.97	0.41
+bosutinib	T315I	4338	2.45	3.746	-2.32	0.43	-2.21	0.42	-1.26	0.42
+bosutinib	T315V									
+bosutinib	F317C 	165	0.50	4.832	1.04	0.41	1.27	0.41	1.22	0.42
+bosutinib	F317I 	232	0.71	1.608	0.16	0.41	0.07	0.42	0.02	0.41
+bosutinib	F317L	82	0.09	-0.712	0.05	0.41	0.47	0.41	0.24	0.41
+bosutinib	F317R									
+bosutinib	F317V	1280	1.72	4.117	1.98	0.42	1.5	0.42	2.25	0.42
+bosutinib	M343T									
+bosutinib	M351T	97	0.19	0.021	0.36	0.42	0.82	0.41	0.71	0.41
+bosutinib	E355A 	74	0.02	0.129	-0.2	0.44	0.13	0.43	0.27	0.43
+bosutinib	E355G									
+bosutinib	F359C 	70	-0.01	-0.092	3.02	0.42	2.51	0.42	1.97	0.43
+bosutinib	F359I	76	0.04	-0.061	0.66	0.41	1.74	0.41	1.43	0.42
+bosutinib	F359V	59	-0.11	-0.064	0.98	0.43	1.69	0.41	1.91	0.42
+bosutinib	V379I									
+bosutinib	L384M									
+bosutinib	L387M									
+bosutinib	H396R	60	-0.10	-1.068	0.62	0.42	-0.07	0.42	-0.93	0.43
+bosutinib	F486S									
+bosutinib	E459K 	127	0.35	0.258	-0.69	0.42	0.23	0.42	-0.54	0.42
+dasatinib	M244V	2	0.00	-0.099	0.05	0.41	-0.37	0.41	-0.43	0.41
+dasatinib	L248R	6	0.65	-2.13	1.4	0.42	1.5	0.43	1.51	0.42
+dasatinib	L248V	5	0.55	2.599	0.58	0.42	0.7	0.41	0.79	0.41
+dasatinib	G250E	4	0.41	-0.002	-0.54	0.43	-0.31	0.43	0.01	0.44
+dasatinib	Q252H									
+dasatinib	Y253F	3	0.24	0.002	-0.21	0.43	-0.24	0.43	-0.03	0.44
+dasatinib	Y253H									
+dasatinib	E255K	9	0.90	-0.08	-0.3	0.43	-0.17	0.44	-1.05	0.43
+dasatinib	E255V	11	1.02	-0.084	0.06	0.42	-0.8	0.42	-0.12	0.42
+dasatinib	D276G									
+dasatinib	E279K									
+dasatinib	E292L									
+dasatinib	V299L	16	1.24	0.015	0.83	0.41	0.36	0.42	0.77	0.42
+dasatinib	F311L									
+dasatinib	T315A	59	2.02	5.09	-1.74	0.41	-1.65	0.41	-1.23	0.41
+dasatinib	T315I	10000	5.08	-2.685	5.63	0.43	4.69	0.44	5.5	0.43
+dasatinib	T315V									
+dasatinib	F317C 	45	1.86	4.723	2.63	0.42	2.32	0.42	2.62	0.41
+dasatinib	F317I 	40	1.79	2.382	1.94	0.41	2.04	0.41	1.94	0.41
+dasatinib	F317L	10	0.96	1.216	1.26	0.41	1.42	0.41	1.08	0.41
+dasatinib	F317R									
+dasatinib	F317V	104	2.36	4.084	3.12	0.42	2.84	0.42	2.68	0.42
+dasatinib	M343T									
+dasatinib	M351T	2	0.00	0.042	0.04	0.41	0.14	0.41	0	0.42
+dasatinib	E355A 	3	0.24	0.001	-0.24	0.43	-0.87	0.45	-1.25	0.44
+dasatinib	E355G									
+dasatinib	F359C 	2	0.00	-0.032	1.24	0.42	0.68	0.41	1.38	0.42
+dasatinib	F359I	3	0.24	-0.022	-0.5	0.42	-0.33	0.42	-1.14	0.42
+dasatinib	F359V	2	0.00	-0.033	-0.87	0.41	0.57	0.42	-0.62	0.41
+dasatinib	V379I									
+dasatinib	L384M									
+dasatinib	L387M									
+dasatinib	H396R	2	0.00	2.53	-0.76	0.43	-0.09	0.43	-0.06	0.43
+dasatinib	F486S									
+dasatinib	E459K 	4	0.41	0.001	-0.68	0.42	-0.17	0.42	-0.07	0.41
+erlotinib	M244V									
+erlotinib	L248R									
+erlotinib	L248V									
+erlotinib	G250E									
+erlotinib	Q252H	61	-0.13	-0.486	-0.85	0.46	-0.6	0.45	-0.18	0.44
+erlotinib	Y253F	76	0.00	-0.029	-0.08	0.44	-0.01	0.43	-0.37	0.43
+erlotinib	Y253H									
+erlotinib	E255K	63	-0.11	0.653	0.02	0.43	-0.01	0.43	-0.26	0.44
+erlotinib	E255V									
+erlotinib	D276G									
+erlotinib	E279K									
+erlotinib	E292L									
+erlotinib	V299L									
+erlotinib	F311L									
+erlotinib	T315A									
+erlotinib	T315I	59	-0.15	-4.399	-0.76	0.47	-1.85	0.45	-2.57	0.43
+erlotinib	T315V									
+erlotinib	F317C 									
+erlotinib	F317I 	1100	1.58	3.052	1.04	0.42	1.37	0.42	1.33	0.41
+erlotinib	F317L	150	0.40	2.535	0.79	0.42	1.36	0.42	1.1	0.41
+erlotinib	F317R									
+erlotinib	F317V									
+erlotinib	M343T									
+erlotinib	M351T	66	-0.08	0.01	0.02	0.41	0.35	0.41	0.08	0.41
+erlotinib	E355A 									
+erlotinib	E355G									
+erlotinib	F359C 									
+erlotinib	F359I									
+erlotinib	F359V									
+erlotinib	V379I									
+erlotinib	L384M									
+erlotinib	L387M									
+erlotinib	H396R									
+erlotinib	F486S									
+erlotinib	E459K 									
+gefitinib	M244V									
+gefitinib	L248R									
+gefitinib	L248V									
+gefitinib	G250E									
+gefitinib	Q252H	230	-0.44	-0.938	-0.23	0.43	0.27	0.46	-0.52	0.43
+gefitinib	Y253F	360	-0.17	-0.04	0.22	0.44	-0.61	0.45	-0.02	0.46
+gefitinib	Y253H									
+gefitinib	E255K	400	-0.11	-1.256	0.93	0.43	1.45	0.43	1.32	0.43
+gefitinib	E255V									
+gefitinib	D276G									
+gefitinib	E279K									
+gefitinib	E292L									
+gefitinib	V299L									
+gefitinib	F311L									
+gefitinib	T315A									
+gefitinib	T315I									
+gefitinib	T315V									
+gefitinib	F317C 									
+gefitinib	F317I 	4700	1.35	1.712	0.69	0.41	0.11	0.41	0.74	0.42
+gefitinib	F317L	780	0.29	-0.221	0.38	0.41	1.21	0.41	0.61	0.41
+gefitinib	F317R									
+gefitinib	F317V									
+gefitinib	M343T									
+gefitinib	M351T	520	0.05	0.014	-0.24	0.41	0.26	0.41	0.39	0.41
+gefitinib	E355A 									
+gefitinib	E355G									
+gefitinib	F359C 									
+gefitinib	F359I									
+gefitinib	F359V									
+gefitinib	V379I									
+gefitinib	L384M									
+gefitinib	L387M									
+gefitinib	H396R									
+gefitinib	F486S									
+gefitinib	E459K 									
+imatinib	M244V	287	0.21	-0.083	0.15	0.41	0.43	0.41	0.17	0.41
+imatinib	L248R	10000	2.33	1.922	1.92	0.43	2.52	0.44	2.34	0.43
+imatinib	L248V	586	0.64	1.891	-1.04	0.41	-1.02	0.42	-1.2	0.41
+imatinib	G250E	1087	1.01	0.918	0.16	0.41	0.02	0.41	0.12	0.41
+imatinib	Q252H									
+imatinib	Y253F	4908	1.90	-0.02	0.87	0.43	0.65	0.42	1.34	0.44
+imatinib	Y253H									
+imatinib	E255K	2487	1.50	0.253	-0.12	0.44	1.95	0.44	-0.55	0.44
+imatinib	E255V	8322	2.22	0.241	-0.72	0.42	-0.02	0.42	-0.53	0.43
+imatinib	D276G									
+imatinib	E279K									
+imatinib	E292L									
+imatinib	V299L	295	0.23	-1.294	0.66	0.41	0.26	0.42	-0.37	0.42
+imatinib	F311L									
+imatinib	T315A	476	0.51	5.104	-1.39	0.41	-1.86	0.41	-2.09	0.44
+imatinib	T315I	9773	2.32	0.881	4.23	0.43	4.23	0.42	3.14	0.44
+imatinib	T315V									
+imatinib	F317C 	324	0.28	2.096	0.27	0.42	-0.18	0.41	0.45	0.42
+imatinib	F317I 	266	0.17	0.939	0.59	0.41	0.66	0.41	0.48	0.41
+imatinib	F317L	675	0.72	0.74	0.58	0.41	0.53	0.41	0.38	0.41
+imatinib	F317R									
+imatinib	F317V	1023	0.97	1.574	0.71	0.42	0.79	0.42	0.8	0.41
+imatinib	M343T									
+imatinib	M351T	404	0.42	-0.02	1.72	0.41	1.03	0.42	1.2	0.42
+imatinib	E355A 	441	0.47	0.292	0.13	0.43	0.08	0.44	0.14	0.43
+imatinib	E355G									
+imatinib	F359C 	728	0.77	2.426	0.88	0.42	0.47	0.41	0.33	0.42
+imatinib	F359I	324	0.28	1.948	-0.13	0.41	-0.87	0.41	0.08	0.41
+imatinib	F359V	346	0.32	2.526	-0.66	0.41	0.02	0.41	-0.27	0.42
+imatinib	V379I									
+imatinib	L384M									
+imatinib	L387M									
+imatinib	H396R	395	0.40	2.762	-0.39	0.41	-0.38	0.42	-0.39	0.42
+imatinib	F486S									
+imatinib	E459K 	612	0.66	0.244	-0.09	0.43	-0.09	0.42	-0.08	0.42
+nilotinib	M244V	12	-0.13	-0.113	0.15	0.41	-0.21	0.41	0.21	0.41
+nilotinib	L248R	549	2.15	0.476	2.05	0.43	2.12	0.47	1.93	0.43
+nilotinib	L248V	26	0.33	3.532	-0.5	0.42	-0.39	0.41	-0.92	0.41
+nilotinib	G250E	41	0.60	0.046	0.06	0.41	-0.27	0.41	-0.38	0.41
+nilotinib	Q252H									
+nilotinib	Y253F	179	1.48	-0.268	1.09	0.43	0.42	0.42	1.16	0.42
+nilotinib	Y253H									
+nilotinib	E255K	127	1.27	0.411	-2.24	0.48	-1.52	0.46	0.33	0.46
+nilotinib	E255V	784	2.36	-0.025	0.31	0.42	-0.25	0.43	-0.55	0.43
+nilotinib	D276G									
+nilotinib	E279K									
+nilotinib	E292L									
+nilotinib	V299L	24	0.28	2.941	-0.18	0.41	0.21	0.41	0.15	0.41
+nilotinib	F311L									
+nilotinib	T315A	50	0.72	3.385	-1.33	0.41	-1.31	0.41	-1.39	0.41
+nilotinib	T315I	8091	3.75	4.161	4.29	0.43	5	0.42	4.34	0.43
+nilotinib	T315V									
+nilotinib	F317C 	16	0.04	0.9	1.34	0.41	0.88	0.41	0.6	0.41
+nilotinib	F317I 	25	0.30	-0.184	1.24	0.41	1.17	0.41	0.82	0.41
+nilotinib	F317L	21	0.20	1.736	1.03	0.41	1.07	0.41	1.09	0.41
+nilotinib	F317R									
+nilotinib	F317V	26	0.33	0.767	1.16	0.41	0.68	0.42	1.07	0.42
+nilotinib	M343T									
+nilotinib	M351T	15	0.00	0.085	-0.06	0.41	-0.09	0.42	-0.46	0.42
+nilotinib	E355A 	18	0.11	-0.058	-0.46	0.43	-1.01	0.43	-0.32	0.43
+nilotinib	E355G									
+nilotinib	F359C 	47	0.68	3.679	1.32	0.41	1.44	0.41	1.52	0.41
+nilotinib	F359I	64	0.86	3.7	1.05	0.41	1.13	0.41	0.74	0.41
+nilotinib	F359V	41	0.60	3.674	1	0.41	1.08	0.41	1.38	0.42
+nilotinib	V379I									
+nilotinib	L384M									
+nilotinib	L387M									
+nilotinib	H396R	23	0.25	2.575	-0.07	0.42	0.21	0.42	0.03	0.42
+nilotinib	F486S									
+nilotinib	E459K 	38	0.55	-0.004	-0.17	0.42	-0.46	0.42	-0.1	0.42
+ponatinib	M244V	3	0.00	-0.127	0.07	0.41	-0.28	0.41	0.12	0.41
+ponatinib	L248R	8	0.58	2.476	1.4	0.43	0.96	0.43	1.1	0.44
+ponatinib	L248V	4	0.17	2.483	-1.82	0.42	-1.23	0.42	-1.96	0.42
+ponatinib	G250E	0.021	0.30	0.174	-0.32	0.43	-0.25	0.43	-0.71	0.46
+ponatinib	Q252H									
+ponatinib	Y253F	5	0.30	0.053	0.85	0.43	1.32	0.44	0.77	0.43
+ponatinib	Y253H									
+ponatinib	E255K	6	0.41	1.055	-0.27	0.48	-0.66	0.48	0.03	0.47
+ponatinib	E255V	16	1.00	-0.045	1.19	0.43	0.94	0.43	-0.41	0.43
+ponatinib	D276G									
+ponatinib	E279K									
+ponatinib	E292L									
+ponatinib	V299L	4	0.17	-0.294	-0.56	0.41	-0.55	0.41	-1.42	0.41
+ponatinib	F311L									
+ponatinib	T315A	4	0.17	-0.512	-2.9	0.41	-3.15	0.41	-2.92	0.41
+ponatinib	T315I	6	0.41	-5.424	0.51	0.42	0.9	0.42	0.91	0.42
+ponatinib	T315V									
+ponatinib	F317C 	3	0.00	1.451	0.44	0.41	0.98	0.42	0.8	0.41
+ponatinib	F317I 	7	0.51	0.617	-0.76	0.41	-1.03	0.41	-1.02	0.41
+ponatinib	F317L	4	0.17	0.566	-1.08	0.41	-0.83	0.41	-0.85	0.41
+ponatinib	F317R									
+ponatinib	F317V	10	0.72	1.142	0.05	0.41	-0.21	0.41	0.24	0.42
+ponatinib	M343T									
+ponatinib	M351T	4	0.17	-0.116	0.89	0.41	1.66	0.41	0.65	0.41
+ponatinib	E355A 	7	0.51	0.009	0.12	0.44	-0.52	0.44	-0.55	0.43
+ponatinib	E355G									
+ponatinib	F359C 	6	0.41	2.115	0.25	0.42	-0.35	0.43	0.73	0.42
+ponatinib	F359I	11	0.77	0.344	-0.66	0.41	-0.38	0.41	0.06	0.41
+ponatinib	F359V	4	0.17	0.743	0.11	0.41	-0.28	0.41	0.08	0.42
+ponatinib	V379I									
+ponatinib	L384M									
+ponatinib	L387M									
+ponatinib	H396R	4	0.17	-0.043	0.19	0.49	0.1	0.45	-1.41	0.48
+ponatinib	F486S									
+ponatinib	E459K 	5	0.30	-0.001	-0.51	0.42	-0.78	0.42	-0.63	0.42
