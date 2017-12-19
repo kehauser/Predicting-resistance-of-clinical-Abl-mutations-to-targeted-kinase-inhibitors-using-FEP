@@ -1,0 +1,12 @@
+name: jupyter
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.6
+- jupyter
+- seaborn
+- pymc3
+- matplotlib
+- numpy
+- scipy
